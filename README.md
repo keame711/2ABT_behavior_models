@@ -1,3 +1,5 @@
+https://doi.org/10.1073/pnas.2113961119
+
 # 2ABT Behavior Models
 
 This project contains analysis tools and models of mouse behavior in a two-armed bandit task. The contents of this repo can be used to:
